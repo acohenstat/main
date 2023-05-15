@@ -1,0 +1,187 @@
+---
+title: "Research"
+subtitle: "~In God we trust; all others bring data (W. E. Deming)~"
+description: |
+listing:
+  id: idresearch
+  contents: research
+  feed: true
+  sort: "date desc"
+  type: grid
+  grid-item-border: true
+  grid-item-align: left
+  max-description-length: 200
+  date-format: medium
+  categories: numbered
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: false
+# bibliography: data/workcohen.bib
+# biblio-style: plainyr
+# nocite: |
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+My research interests are in:
+
+-   Statistical Process Monitoring
+-   Applied Statistics (Modeling, Predictive/ML)
+-   Wavelet Analysis
+-   Data Science Education
+
+## {{< fa diagram-project title="diagram project" >}} Projects
+
+::: {#idresearch}
+:::
+
+<!-- REFRENCES -->
+
+## {{< fa book title="diagram books" >}} Peer-Reviewed Publications
+
+#### {{< fa book-open title="diagram books" >}} Statistical Process Monitoring
+
+1.  A. Cohen, MA. Atoui.
+    On wavelet-based statistical process monitoring.*Transactions of the Institute of Measurement and Control* (IF=1.649).
+    Online-2020.
+
+2.  A. Mishra, A. Cohen, T. Reichherzer, W. Norman.
+    Detection of Data Anomalies at the Edge of Pervasive IoI Systems.
+    *Computing* (IF=2.044) Springer-Nature.2021.
+
+3.  MA. Atoui, A. Cohen.Coupling data-driven and model-based methods to improve fault diagnosis.
+    *Computers in Industry* (IF=3.954).2021.
+
+4.  A. Atoui, A. Cohen, V. Cocquempot.
+    Unlocked decision making based on causal connections strength.
+    *European Journal of Control* (IF=2.395)2021.
+
+5.  M. A., Atoui, A. Cohen, S. Verron, A. Kobi.
+    A single Bayesian network classifier for monitoring with unknown classes.
+    *Engineering Applications of Artificial Intelligence* (IF=4.201).Vol.85, pp. 681-690.2019.
+
+6.  A. Cohen, R. Amin.The Effects of Normal Mixtures and Autocorrelation on the Fraction Non-Conforming.*Communications in Statistics - Simulation and Computation* (IF=0.651).1-13.2017.
+
+7.  A. Cohen, T. Tiplica, A. Kobi.OWave control chart for monitoring the process mean.*Control Engineering Practice* (IF=3.193).Vol.54, pp. 223-230.2016.
+
+8.  A. Cohen, T. Tiplica, A. Kobi.
+    Design of experiments and statistical process control using wavelets analysis.
+    *Control Engineering Practice*(IF=3.193).Vol.49, pp. 129-138.2016
+
+9.  A. Cohen.
+    Detection et diagnostic des fautes dans des systemes complexes par approches multi-echelle / Fault Detection and Diagnosis in Complex Systems by Multi-Scale Approaches.
+    Ph.D. Dissertation.University of Angers.2015.
+
+#### {{< fa book-open title="diagram books" >}} Statistical Modeling/ML/Data Science
+
+1.  Cohen, Achraf, and Yazan A. Alqudah.
+    2023.On the Application of Generalized Linear Mixed Models for Predicting Path Loss in LTE Networks." *EURASIP Journal on Advances in Signal Processing* 2023 (1). <https://doi.org/10.1186/s13634-022-00957-1>.
+
+2.  Buker, Hasan, Achraf Cohen, and Ayhan Erbay.
+    2022."An Exploration of the Subtypes of Male Youth Adjudicated for Sex Offenses: A Latent Class Analysis Based on Personal, Offense, and Victim Characteristics." *Crime and Delinquency*, November, 001112872211373.
+    <https://doi.org/10.1177/00111287221137306>.
+
+3.  A. Cohen, I. Alhuraish, C. Robledo, A. Kobi.
+    A statistical analysis of critical quality tools and companies' performance.
+    *Journal of Cleaner Production* (IF=7.246).
+    Vol.255, pp. 2020.
+
+4.  S. New, H. Nano, A. Cohen, B. Ramachandran.Load Forecasting using Multiple Linear Regression with the Indian Calendar.
+    *Distributed Energy Resources in Microgrids*.
+    Springer.
+
+    2019. 
+
+5.  A. Cohen, C. Messaoudi , H.Badir.
+    A New Wavelet-Based Approach for Mass Spectrometry Data Classification.
+    In: Zhao Y., Chen DG.
+    (eds) *New Frontiers of Biostatistics and Bioinformatics* .
+    ICSA Book Series in Statistics.
+    Springer, Cham.
+    December 2018.
+
+6.  A. Ezzine, Y.Y. Alaoui, A. Cohen.
+    Adaptive Multiscale Stereo Images Matching Based on Wavelet Transform Modulus Maxima.
+    *International Journal of Image Processing* Vol.6(5), pp. 373-379.
+    2012
+
+#### {{< fa book-open title="diagram books" >}} Sports Medicine
+
+1.  Branch, Eric A., Joshua J. Cook, Achraf Cohen, Hillary Plummer, Alireza Emami, Jessica Truett, and Adam W. Anz.
+    2023."Platelet Rich Plasma Is Similar to Platelet Rich Plasma Plus Hyaluronic Acid for the Treatment of Knee Osteoarthritis at 2 Years: A Randomized Controlled Trial." *Journal of Cartilage and Joint Preservation*, March, 100129.
+    <https://doi.org/10.1016/j.jcjp.2023.100129>.
+
+2.  Goodrich E, Cox B, Plummer HA, Cohen A, Andrews JR, Saper M. Adolescent Baseball Pitchers With Ulnar Collateral Ligament Tears Exhibit a High Proportion of Partial Tears.
+    *The American Journal of Sports Medicine* (IF=6.203).May 2022.
+    doi:10.1177/03635465221094326.
+
+3.  Anz AW, Plummer HA, A. Cohen, Everts PA, Andrews JR, Hackel JG. Bone Marrow Aspirate Concentrate Is Equivalent to Platelet-Rich Plasma for the Treatment of Knee Osteoarthritis at 2 Years: A Prospective Randomized Trial.
+    *The American Journal of Sports Medicine* (IF=6.203)2022;50(3):618-629.doi:10.1177/03635465211072554
+
+## {{< fa microphone title="microphone" >}} Conferences and Talks
+
+1.  Nitul Singha (April, 2023), poster presentation.
+    Predicting the Day of Year of Cherry Blossom Peak.
+    *University of Miami Conference of Florida Graduate Schools 2023*.
+    Lakeside Village, FL. Faculty mentor: Dr. Achraf Cohen
+
+2.  Raine Brooks (April, 2023), poster presentation.
+    Vetran Disability Compensation Recipients: A Poisson Regression Application.
+    *University of West Florida Student Scholars Symposium*.
+    Pensacola, FL. Faculty mentor: Dr. Achraf Cohen
+
+3.  S. New, H. Nano, B. Ramachandran, A. Cohen.
+    Load Forecasting using Multiple Linear Regression with the Indian Calendar.
+    Poster - 2019 UWF Student Scholars Symposium.2019.
+
+4.  A. Atoui, A. Cohen, V. Cocquempot.
+    Unlocked decision making based on causal connections strength.
+    2021 European Control Conference (ECC-IEEE) Paper 2021.
+
+5.  A. Atoui, A. Cohen.
+    Fault diagnosis using PCA-Bayesian Network classifier with unknown faults.
+    2020 European Control Conference (ECC-IEEE) Paper 2020.
+
+6.  A. Cohen.
+    A Methodology to Classify High-dimensional Data: Application to Mass Spectromery Data.
+    The ASA - JSM, Denver, CO. Poster 2019.
+
+7.  A. Atoui, A. Cohen, R. Pauffet, P. Berruet.
+    Fault Diagnosis by Bayesian Network Classifiers with a Distance Rejection Criterion.
+    ICINCO 2019 conference (IEEE-IFAC).
+    Prague, June 2019.
+
+8.  S. New, H. Nano, B. Ramachandran, A. Cohen.
+    Load Forecasting using Multiple Linear Regression with the Indian Calendar.
+    Poster - 2019 UWF Student Scholars Symposium.2019.
+
+9.  A. Cohen.
+    Wavelet-Based Methods for Data-Driven Monitoring.
+    The 2018 American Statistical Association Conference on Statistical Practice, Portland, Oregon.
+    Poster 2018.
+
+10. T. Stevens, B. Ramachandran, A. Cohen.
+    Economic Operation of Microgrid Energy Resources Considering Uncertainties.
+    IEEE SoutheastCon.
+    April 2018.
+
+11. A. Cohen, T. Tiplica, A. Kobi.
+    Weighted Wavelets Coefficients for Monitoring Process Mean.
+    International Conference on Advances in Control and Optimization Of Dynamical Systems, Tiruchirappalli, India / IFAC-PapersOnline, Vol.
+    49-1, pp. 819-823.
+
+    2016. 
+
+12. A. Cohen, T. Tiplica, A. Kobi.
+    Statistical process control for AR(1) or non-Gaussian processes using wavelets coefficients.
+    Conference: 12th European Workshop on Advanced Control and Diagnosis, at Pilsen, Czech Republic.
+    Volume: Journal of Physics: Conference Series 659.2015
+
+13. T.Tiplica, A. Cohen, A. Ezzine.
+    Road signs detection in color images by statistical approach.
+    Conference Proceeding, QUALITA2013, Compiegne, France.
+    Vol.
+    49, pp. 129-138.
+    2013

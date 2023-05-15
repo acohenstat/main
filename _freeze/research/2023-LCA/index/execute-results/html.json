@@ -1,0 +1,14 @@
+{
+  "hash": "c7379f947c4a4e0cf41dfadcf8c520dc",
+  "result": {
+    "markdown": "---\ntitle: \"Latent Class Anlaysis to Explore Subgroups of a Population\"\ndescription: |\n A latent class analysis to discover subgroups of male youth adjudicated for sex offenses\nauthor:\n  - name: Achraf Cohen\n    url: \n    orcid: 0000-0002-7843-4517\ndate: 2023-01-15\nslug: wavespm\ncategories: [LCA Modeling]\nimage: lca.png\nbibliography: ref.bib\n---\n\n::: {.cell}\n::: {.cell-output-display}\n![](lca.png){width=451}\n:::\n:::\n\n\n\n\n# Overview\n\nThis study intended to explore possible variations among youth adjudicated\nfor sexual offenses based on personal criminogenic factors, offense, and\nvictim characteristics. Utilizing a data set collected from the juvenile\ncourt files in Turkey (n=460), the Latent Class Analysis revealed that the\nstudy sample included three different subgroups with distinct features:\n“non-delinquent, peer victim-targeting,” “non-delinquent, younger victim targeting,” and “delinquent, versatile” youth adjudicated for sex offenses [@buker2022exploration].\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

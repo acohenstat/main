@@ -1,0 +1,14 @@
+{
+  "hash": "c166b0fee7b1995ab6a41e31d8af26b4",
+  "result": {
+    "markdown": "---\ntitle: \"Wavelet and Statistical Process Monitoring\"\ndescription: |\n A visualization of state of art on statistical process monitoring and wavelet analysis.\nauthor:\n  - name: Achraf Cohen\n    url: \n    orcid: 0000-0002-7843-4517\n    affiliation: UWF\ndate: 2022-01-15\nslug: wavespm\ncategories: [SPM]\nimage: spm.png\n---\n\n::: {.cell}\n::: {.cell-output-display}\n![An Bui and I getting ready to teach our very first R workshop to R-Ladies SB, hosted at NCEAS](spm.png){fig-alt='Two women, Sam and An, stand smiling in front of a projector screen with a GitHub repository on display.' width=1256}\n:::\n:::\n\n\n\n\n# Overview\n\nMy *very first time* (co)leading an R-based live-coding workshop(!) and the experience that got me hooked on teaching RStats/data science 💜, given to [R-Ladies Santa Barbara](https://www.meetup.com/rladies-santa-barbara/events/260710376/).\n\n# Abstract \n\nIn this live-coding workshop, we teach useful functions for data tidying, wrangling and visualization using tidyverse packages & functions (e.g. `dplyr`, `tidyr`, `ggplot2`, `forcats`, etc.). This session is intended for R users at any level, whether it's your first time exploring the tidyverse or if you're refreshing your wrangling skills!\n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

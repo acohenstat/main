@@ -1,6 +1,6 @@
 ---
 title: ""
-image: images/sam_cropped.jpg
+image: images/achraf.jpeg
 toc: false
 about: 
   template: jolla
@@ -9,37 +9,49 @@ about:
   links:
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/samanthacsik/
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/SamanthaCsik
+      href: https://www.linkedin.com/in/achraf-cohen-94047421/en
+    # - icon: twitter
+    #   text: Twitter
+    #   href: https://twitter.com/
     - icon: github
       text: GitHub
-      href: https://github.com/samanthacsik
+      href: https://github.com/acohenstat
     - icon: envelope
       text: Email
-      href: mailto:scsik@ucsb.edu
+      href: mailto:acohen@uwf.edu
 ---
 
 <!-- ::: {.small-text} -->
-Hi there! I'm Sam (and my last name is pronounced "chick"). Professionally, I love teaching data science skills, learning and implementing inclusive pedagogical approaches, and the communities that supports both of those things. Outside of work, I'm an avid hiker, novice (but passionate) meal-maker, and I really love the color green. You can learn more by poking around my website!
+I'm Achraf Cohen! Professionally, I love teaching students statistics and data science, learning and implementing pedagogical approaches. I also love collaborative work/consulting with non-statisticians! For me that where the real excitement is about statistics/ ML :). In my spare time, I'm enjoy watching football (soccer) --a supporter of Real Madrid and run 5ks!
 <!-- ::: -->
 
-<!-- ### hi there!     -->
 
-<!-- I'm Sam (and my last name is pronounced "chick"). I'm the Data Training Coordinator at the [National Center for Ecological Analysis & Synthesis](https://www.nceas.ucsb.edu/) (NCEAS) located at UC Santa Barbara, where I'm working to develop and teach data science training curricula for the [Master of Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science) (MEDS) program and other data science initiatives across NCEAS and UCSB. I am also a co-organizer of [R-Ladies Santa Barbara](https://www.meetup.com/rladies-santa-barbara/), a local data science group which works to promote gender diversity in the R community. In my spare time, you'll typically find me hiking with my pup or cooking family dinners with friends. -->
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
 
-<!-- ### education -->
+### education & experience
 
-<!-- <div class="topbr"> -->
-<!-- <p class="custom-subtitle">{{< fa graduation-cap title="A graduation cap" >}} **MS in Ecology, Evolution & Marine Biology, 2020**</p>   -->
-<!-- <p class="custom-subtitle2">University of California, Santa Barbara</p> -->
+<div class="topbr">
+<p class="custom-subtitle">{{< fa user-tie title="A graduation cap" >}} **Associate Professor of Statistics/Data Science, 2023**</p>
+<p class="custom-subtitle2">[University of West Florida](https://uwf.edu/), USA</p>
 
-<!-- <p class="custom-subtitle">{{< fa graduation-cap title="A graduation cap" >}} **BS in Marine Biology, 2016**</p>   -->
-<!-- <p class="custom-subtitle2">Northeastern University</p> -->
-<!-- </div> -->
+<p class="custom-subtitle">{{< fa user-tie title="A graduation cap" >}} **Fellowship Research Statistician, 2022**</p>
+<p class="custom-subtitle2">[Andrews Research & Education Foundation](https://andrewsref.org/), USA</p>
+
+<p class="custom-subtitle">{{< fa user-tie title="A graduation cap" >}} **Assistant Professor of Statistics, 2018**</p>
+<p class="custom-subtitle2">University of West Florida, USA</p>
+
+
+<p class="custom-subtitle">{{< fa user-tie title="A graduation cap" >}} **Postdoctoral Teaching Associate in Statistics, 2016**</p>
+<p class="custom-subtitle2">University of West Florida, USA</p>
+
+<p class="custom-subtitle">{{< fa graduation-cap title="A graduation cap" >}} **PhD in Applied Mathematics/Statistics, 2015**</p>
+<p class="custom-subtitle2">University of Angers, France</p>
+
+<p class="custom-subtitle">{{< fa graduation-cap title="A graduation cap" >}} **MS in Telecom and Computer Networks Engineering, 2011**</p>
+<p class="custom-subtitle2">ENSAT School of Engineering, Morocco</p>
+
+</div>
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
 

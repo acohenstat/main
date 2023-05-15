@@ -1,0 +1,14 @@
+{
+  "hash": "9a9d0d08122d4db1559919884a34b5e5",
+  "result": {
+    "markdown": "---\ntitle: \"Wavelet and Statistical Process Monitoring\"\ndescription: |\n A visualization of state of art on statistical process monitoring and wavelet analysis.\nauthor:\n  - name: Achraf Cohen\n    url: \n    orcid: 0000-0002-7843-4517\ndate: 2022-01-15\nslug: wavespm\ncategories: [SPM]\nimage: spm.png\nbibliography: ref.bib\n---\n\n::: {.cell}\n::: {.cell-output-display}\n![](spm.png){width=1256}\n:::\n:::\n\n\n\n\n# Overview\n\nThe mind map shows the progress and advancement statistical process monitoring has known for the last decades. A focus is made on the use of wavelet analysis.\n\n\n[@cohen2022wavelet]\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

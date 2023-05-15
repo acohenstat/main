@@ -1,0 +1,33 @@
+---
+title: "Latent Class Anlaysis to Explore Subgroups of a Population"
+description: |
+ A latent class analysis to discover subgroups of male youth adjudicated for sex offenses
+author:
+  - name: Achraf Cohen
+    url: 
+    orcid: 0000-0002-7843-4517
+date: 2023-01-15
+slug: wavespm
+categories: [LCA, Clustering]
+image: lca.png
+bibliography: ref.bib
+---
+
+```{r}
+#| echo: false
+#| fig-cap: ""
+#| fig-alt: ""
+knitr::include_graphics("lca.png")
+```
+
+
+
+# Overview
+
+This study intended to explore possible variations among youth adjudicated
+for sexual offenses based on personal criminogenic factors, offense, and
+victim characteristics. Utilizing a data set collected from the juvenile
+court files in Turkey (n=460), the Latent Class Analysis revealed that the
+study sample included three different subgroups with distinct features:
+“non-delinquent, peer victim-targeting,” “non-delinquent, younger victim targeting,” and “delinquent, versatile” youth adjudicated for sex offenses [@buker2022exploration].
+

@@ -1,0 +1,29 @@
+---
+title: "On the Chi-square test with small expected frequencies"
+description: |
+author:
+  - name: Achraf Cohen
+    # orcid: 
+    # url: 
+    affiliation: University of West Florida
+    # affiliation-url:  
+# date: 
+citation: 
+  url: ""
+bibliography: biblio.bib
+categories: [chisquare,contingency table]
+image: ""
+---
+
+
+## Chi-square test
+
+On the use of Chi-square test and approximate the distribution: Small expected frequencies leads to poor approximation of the distribution of the chi-square statistic with the chi-square distribution. That is because when small frequencies are present, the possible values of the chi-square statistic are "much" discrete. Therefore, the continuous chi-square distribution becomes not a good fit. 
+
+A general rule is to at least have 5 as the smallest frequency in your table, however this rule seems to be chosen at random (Cochran,1952). Yates proposed a correction (implemented in R). 
+
+Nowadays, given computing capabilities the correction is less needed. So what should we do? 
+
+**Fisher's exact test is a solid alternative** but if your design allows the assumption of "fixed margins". More over Fisher's exact test can be used in larger tables than 2 x 2. If the expected frequencies are small (<5) then one can use **the Monte Carlo simulated p-value**.
+
+

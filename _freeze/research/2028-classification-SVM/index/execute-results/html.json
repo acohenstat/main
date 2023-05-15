@@ -1,0 +1,14 @@
+{
+  "hash": "5c23b33bdc6b829c1f3180ffc829b2bd",
+  "result": {
+    "markdown": "---\ntitle: \"Classification of Mass Spectrometry Data\"\ndescription: |\n Wavelet-based feature engineered for classifing Mass Spectrometry Data for Cancer.\nauthor:\n  - name: Achraf Cohen\n    url: \n    orcid: 0000-0002-7843-4517\ndate: 2018-11-15\nslug: \ncategories: [Classification, SVM, PCA, Wavelet, Hotelling T2]\nimage: svm.png\nbibliography: ref.bib\n---\n\n::: {.cell}\n::: {.cell-output-display}\n![](svm.png){width=670}\n:::\n:::\n\n\n\n\n# Overview\n\nProteomic patterns can help the diagnosis of the underlying pathological state of an organ such as the ovary, the lung, and the breast, to name few. An accurate classification of mass spectrometry is a crucial point to establish a reliable diagnosis and decision process regarding a type of cancer.\n\nA statistical methodology for classifying mass spectrometry data is proposed. An overview of wavelets, principal component analysis-T2 statistic, and support vector machines is given. The study is performed on low-mass SELDI spectra derived from patients with breast cancer and from normal controls. There are 156 samples where control (normal) patients contribute with 57 samples and 99 samples are cancer. A hyperparameter optimization is conducted to select a support vector machine classification model based on grid search. The performance was evaluated with a k-fold cross validation technique and Monte-Carlo simulation with 100 replications. The average accuracy is 100% with standard error equals to 0. The averages of the sensitivity and specificity are both equal to 100%, as well as the area under the curve. The excellent performance of the proposed method is mainly due to the modeling, the new PCA-T2 statistic combining details and approximation coefficients, and the feature extraction procedure proposed [@cohen2018new].\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

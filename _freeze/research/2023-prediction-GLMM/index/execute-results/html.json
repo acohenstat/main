@@ -1,0 +1,14 @@
+{
+  "hash": "5a3303bbb77591a67ac242830e906995",
+  "result": {
+    "markdown": "---\ntitle: \"Generalized Linear Mixed Models for Predictions\"\ndescription: |\n A GLMM model for predicting the Path Loss Data.\nauthor:\n  - name: Achraf Cohen\n    url: \n    orcid: 0000-0002-7843-4517\ndate: 2022-11-15\nslug: \ncategories: [Predictive Modeling, GLMM]\nimage: pathloss.png\nbibliography: ref.bib\n---\n\n::: {.cell}\n::: {.cell-output-display}\n![](glmm.png){width=602}\n:::\n:::\n\n\n\n\n# Overview\n\nTo meet the ever-growing demand for higher data rates, accurate channel models are needed for optimal design and deployment of mobile wireless networks. This work proposes a new method for addressing path loss modeling at 800 MHz of suburban environment based on ﬁeld measurements. Using generalized linear mixed models, we develop a new statistical model that accounts for the autocorrelation among measurements at the same distance at diﬀerent times. The proposed method allows linear, quadratic, and cubic relationship forms between the path loss measurements and the natural logarithm of the distance, which is almost unexplored as existing models use a straight line relationship. A comparison study consists of comparing nine propagation models in terms of the mean absolute prediction error. The new model performs over 30% better than the existing models for the considered measurements. We also show that a cubic relationship form between path loss measurements and the logarithm of distance could be more suitable than a straight line form for prediction purposes. The results show that the generalized linear mixed models signiﬁcantly improve the prediction power regardless of the form of the model (linear, quadratic, or cubic) [@cohen2023application].\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

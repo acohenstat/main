@@ -1,0 +1,28 @@
+---
+title: "Wavelet and Statistical Process Monitoring"
+description: |
+ A visualization of state of art on statistical process monitoring and wavelet analysis.
+author:
+  - name: Achraf Cohen
+    url: 
+    orcid: 0000-0002-7843-4517
+date: 2022-01-15
+slug: wavespm
+categories: [SPM, Wavelet]
+image: spm.png
+bibliography: ref.bib
+---
+
+```{r}
+#| echo: false
+#| fig-cap: ""
+#| fig-alt: ""
+knitr::include_graphics("spm.png")
+```
+
+
+
+# Overview
+
+The mind map shows the progress and advancement statistical process monitoring has known for the last decades. A focus is made on the use of wavelet analysis [@cohen2022wavelet].
+

@@ -1,0 +1,28 @@
+---
+title: "Bayesian Networks for Process Monitoring"
+description: |
+   A Bayesian classifier combining statistical rules and fault signature matrix.
+author:
+  - name: Achraf Cohen
+    url: 
+    orcid: 0000-0002-7843-4517
+date: 2021-01-15
+slug: wavespm
+categories: [SPM, Bayesian Networks]
+image: bnspm.png
+bibliography: ref.bib
+---
+
+```{r}
+#| echo: false
+#| fig-cap: ""
+#| fig-alt: ""
+knitr::include_graphics("bnspm.png")
+```
+
+
+
+# Overview
+
+BNs can be developed either based on the physical and expert knowledge or using data. Both information can be complementary and could be helpful to accurately infer and determine the associations between the system’s variables [@COHEN2019b,@Atoui_2021,@COHEN2019a].
+

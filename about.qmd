@@ -1,61 +1,82 @@
 ---
-title: "about"
-subtitle: "~ a bit more about me both inside and outside of my job ~"
+title: "Teaching"
+subtitle: "~The greatest ideas are worthless if you keep them to yourself~"
 ---
 
 ## {{< fa chalkboard-teacher title="A teacher at a chalkboard" >}} the profession
 
-I'm the Data Training Coordinator at the [National Center for Ecological Analysis & Synthesis](https://www.nceas.ucsb.edu/) (NCEAS) located at UC Santa Barbara, where I'm working to develop and teach data science training curricula for the [Master of Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science) (MEDS) program and other data science initiatives across NCEAS and UCSB. I am also a co-organizer of [R-Ladies Santa Barbara](https://www.meetup.com/rladies-santa-barbara/), a local data science group which works to promote gender diversity in the R community.
+I consider the vital goal of teaching to *encourage learning and foster new ideas*. Students take many of their learning habits from the professor. I believe that If I do not show interest in the subject and a passion for learning, students will less likely produce the effort to learn in the class. I believe that one way to foster learning is to demonstrate those feelings to my students. I also emphasize the interconnection among concepts, which helps students to apprehend new topics.
 
-My background is in marine ecology / ecophysiology -- I was afforded opportunities to study coral disease in Panama and the Florida Keys as an undergrad, then temperature effects on spiny lobster metabolism and foraging behavior in Santa Barbara for my Masters degree. Since the beginning of my time in STEM, I was totally terrified of all things data/coding/data science, but thanks to a super supportive community and some really rad colleagues/instructors, I found my new path in data science education and I absolutely *love* it.
-
-:::{.column-margin}
+::: column-margin
 ```{r}
 #| echo: false
-#| fig-cap: "Teaching MEDS students how to build their own personal websites using Quarto! This was especially fun for me, since Quarto was still such a new tool when I first gave this workshop -- it meant a lot of discovery and learning on-the-fly alongside our students."
-knitr::include_graphics("images/teaching.jpeg")
+#| fig-cap: ""
+# knitr::include_graphics("images/teaching.jpeg")
 ```
 :::
 
-I'm afforded a lot of flexibility in how I teach and what I teach. Primarily, I focus on developing and delivering workshop-style classes that supplement the [MEDS core curriculum](https://ucsb-meds.github.io/courses.html). I teach primarily via live-coding (where my computer is hooked up to a screen for workshop participants to see and hear me talk through code in real time as they follow along on their own computers) -- this teaching style was invaluable in my own development as a data scientist, and I really believe that, when done well, live-coding can be a game-changing experience for early-career coders and data scientists. I am always looking for new ways to make my teaching style and materials more approachable and inclusive for all learners -- I try to build [my materials](https://samanthacsik.github.io/talks_workshops.html) to be stand-alone resources both for participants to refer back to and also for those learning on their own time.
+I focus on developing and delivering data science and statistics classes. I teach online and in-person. I believe in continuous improvement in teaching and mentoring. Live-coding is a unique teaching style that is invaluable to the development of future statistician and data scientists. Active learning is essential to students and group work to gain confidence and skills. I am always looking for new ways to make my teaching style and materials more approachable and inclusive.
 
-## {{< fa hiking title="A person with a backpack and trekking pole" >}} the hobby 
+## {{< fa book title="" >}} courses taught
 
-I feel very fortunate to be doing so many of things that I love *a lot* right now. That includes my job, but also spending lots of time outdoors. Living in Santa Barbara is a massive privilege and being here means that we have access to both the mountains and the sea, each a few minutes in either direction. It was the ocean that brought me here originally, but most of my free time is now spent on the trails.
+-   [Tools for Data Science (R, SQL, Python, and Spark)](https://pages.uwf.edu/acohen/TFDS/)
 
-:::{.column-margin}
+-   [Nonparametric Statistics](https://acohenstat.github.io/STA6507)
+
+-   [Time Series Analysis](https://acohenstat.github.io/STA6856)
+
+-   [Advanced Statistical Modeling (GLMs) - learning-based projects](https://acohenstat.github.io/STA6257)
+
+-   [Introduction Nonparametric Statistics](https://acohenstat.github.io/STA4051/SlidesSTA4051.html#/title-slide)
+
+-   Design and Analysis of Experiments
+
+-   Introduction to Mathematical Statistics (probability distributions)
+
+-   MathStat Tools (R, SAS, MATLAB, LaTex)
+
+-   Multivariate Methods
+
+-   Data Awareness
+
+-   [Proseminar](https://uwf.edu/hmcse/departments/mathematics-and-statistics/student-resources/proseminar/)
+
+-   [Thesis](data/Thesis_Instructions.pdf)
+
+::: column-margin
 ```{r}
 #| echo: false
-#| fig-cap: "My right-hand hiking gal, Tallie (aka TunaB)."
-knitr::include_graphics("images/tallie.jpeg")
+#| fig-cap: ""
+#knitr::include_graphics("images/tallie.jpeg")
 ```
 :::
 
-I started recording my hikes (and eventually some other activities) on [Strava](https://www.strava.com/) in late 2020 and finally got around to retrieving my activity data using the [`{rStrava}`](https://github.com/fawda123/rStrava) package. Below is a heatmap of all my recorded activities made using [`leaflet`](https://rstudio.github.io/leaflet/). It's challenging to see individual markers at my most frequented trail heads/starting points, so I've recently began building out my own Strava Dashboard (using [`{shinydashboard}`](https://rstudio.github.io/shinydashboard/)) to make it a bit more interactive and filterable -- it's a work in progress, but a fun side project that I'm excited to continue iterating upon. Huge shout out to [Daniel Cullen](https://www.dancullen.me/) (who also happens to be a Santa Barbara resident!) for his awesome [blogpost](https://www.dancullen.me/articles/creating-a-heatmap-in-r-with-google-polylines) that got me started with my own map.
+## {{< fa list-check title="" >}} advising and mentoring
 
-<center><p class="large-text quote-text-bg">Feel free to check out my Strava dashboard, [Sam's Strava Stats](https://samanthacsik.shinyapps.io/strava_dashboard/) (still working on a better name...)! Source code available on [`r fontawesome::fa("github", fill = "#AE8BD1", a11y = "sem")` GitHub](https://github.com/samanthacsik/strava-dashboard).</p></center>
+I have consistently advised and guided students.
 
-<!--html_preserve-->
-<center><iframe src = "images/leaflet_2023-04-07.html", width ="800", height="450"> </iframe></center>
-<!--/html_preserve-->
-<span style = 'font-size: 90%;'><em><center>Map last updated: May 1, 2023</em></center></span>
+-   Ph.D. Advisor: 1 student
 
-## {{< fa egg title="An egg" >}} the logo
+-   Member Ed.D. dissertation committees (statistician): 2 students
 
-I'm a proud Csik (pronounced "chick" -- Hungarian, for the curious), though I spent many of my younger years embarrassed when people (understandably) got it wrong (variations include "sea-sick," "sick," "ca-sick," to name a few) -- and many of us know how brutal little kid peers can be when there's a funny way to mispronounce a name. At some point, I learned to embrace the weird and it became very much a part of my everyday identity. My track coaches and teammates would shout "LET'S GO CSIK" during my events at meets, I signed year books as "Sam [drawing of a chick]" and every handmade card received my "The Csik Press" identifying mark on the back. As I've grown older, I've taken more care to help colleagues, peers, and strangers learn the correct pronunciation -- because if I'm being totally honest, I think my name is pretty darn cool `r fontawesome::fa("smile-wink", fill = "#64605F", a11y = "sem")`. So my first ever *real* logo is an homage to my earliest attempts at claiming my Csik identity. It may evolve a bit, but for now, it makes me pretty happy. Made using the (free!) [Adobe Express logo maker](https://www.adobe.com/express/create/logo).
+-   Chair M.S. dissertations committees: 2 students
 
-:::{.column-margin}
+-   Member M.S. dissertations committees: 2 students
+
+-   Proseminars: +15 students
+
+-   Capstone Projects: +20
+
+-   Directed Studies: 2
+
+-   Summer Undergraduate Research Projects (SURP): + 5
+
+::: column-margin
 ```{r}
 #| echo: false
-#| fig-cap: "The back of a handmade birthday card by yours truly (aka 'The Csik Press'). Thanks, Mom, for sending me pics of these decade+ old treasures whenever you come across them. Artist: Sam Csik. Medium: construction paper, Elmer's glue. Date: 2010 (apparently)."
-knitr::include_graphics("images/the_csik_press.jpeg")
+#| fig-cap: ""
+#knitr::include_graphics("images/tallie.jpeg")
 ```
 :::
 
-```{r}
-#| echo: false
-#| fig-align: center
-#| fig-width: 5
-#| fig-height: 3
-knitr::include_graphics("images/logos/nunito/creamText_darkGreenBar/logo_nunito_cropped.png")
-```
+## 

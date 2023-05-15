@@ -1,0 +1,14 @@
+{
+  "hash": "29af8e9363dc931e8c37959fbd374b47",
+  "result": {
+    "markdown": "---\ntitle: \"Weighted Wavelets Coefficients for Mean Monitoring\"\ndescription: |\n OWave Control Chart for Population Mean using Wavelet Coefficients (details and approximations, db2) \nauthor:\n  - name: Achraf Cohen\n    url: \n    orcid: 0000-0002-7843-4517\ndate: 2016-01-15\nslug: wavespm\ncategories: [SPM]\nimage: owave.png\nbibliography: ref.bib\n---\n\n::: {.cell}\n::: {.cell-output-display}\n![](owave.png){width=392}\n:::\n:::\n\n\n\n\n# Overview\n\nA control chart for monitoring the process mean, called OWave (Orthogonal Wavelets), is proposed. The statistic that is plotted in the proposed control chart is based on weighted wavelets coefficients, which are provided through the Discrete Wavelets Transform using Daubechies wavelets family [@cohen2016owave,@cohen2016design].\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,25 +1,19 @@
 [
   {
-    "listing": "/talks_workshops.html",
+    "listing": "/research.html",
     "items": [
-      "/talks_workshops/2023-04-14-functions-forloops/index.html",
-      "/talks_workshops/2023-03-16-ggplot2/index.html",
-      "/talks_workshops/2023-01-20-eds430-intro-to-shiny/index.html",
-      "/talks_workshops/2022-10-24-quarto-blogs/index.html",
-      "/talks_workshops/2022-10-10-customizing-quarto-websites/index.html",
-      "/talks_workshops/2022-08-05-creating-your-personal-website-using-quarto/index.html",
-      "/talks_workshops/2022-04-18-intro-to-cloud-computing/index.html",
-      "/talks_workshops/2021-11-15-ide-tips-tricks/index.html",
-      "/talks_workshops/2021-10-11-teach-me-how-to-google/index.html",
-      "/talks_workshops/2019-05-15-intro-to-the-tidyverse/index.html"
+      "/research/2023-LCA/index.html",
+      "/research/2023-prediction-GLMM/index.html",
+      "/research/2022-spm-wavelet/index.html",
+      "/research/2021-BN-spm/index.html",
+      "/research/2028-classification-SVM/index.html",
+      "/research/2016-owave/index.html"
     ]
   },
   {
     "listing": "/posts.html",
     "items": [
-      "/posts/2022-10-24-quarto-blogs/index.html",
-      "/posts/2022-06-22-hello_quarto/index.html",
-      "/posts/2021-09-21-distill-blogs/index.html"
+      "/posts/chisquare_test/index.html"
     ]
   }
 ]

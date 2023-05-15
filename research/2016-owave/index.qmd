@@ -1,0 +1,28 @@
+---
+title: "Weighted Wavelets Coefficients for Mean Monitoring"
+description: |
+ OWave Control Chart for Population Mean using Wavelet Coefficients (details and approximations, db2) 
+author:
+  - name: Achraf Cohen
+    url: 
+    orcid: 0000-0002-7843-4517
+date: 2016-01-15
+slug: wavespm
+categories: [SPM, Wavelet]
+image: owave.png
+bibliography: ref.bib
+---
+
+```{r}
+#| echo: false
+#| fig-cap: ""
+#| fig-alt: ""
+knitr::include_graphics("owave.png")
+```
+
+
+
+# Overview
+
+A control chart for monitoring the process mean, called OWave (Orthogonal Wavelets), is proposed. The statistic that is plotted in the proposed control chart is based on weighted wavelets coefficients, which are provided through the Discrete Wavelets Transform using Daubechies wavelets family [@cohen2016owave,@cohen2016design].
+

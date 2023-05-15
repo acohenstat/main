@@ -1,75 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://samanthacsik.github.io/posts/2022-10-24-quarto-blogs/index.html</loc>
-    <lastmod>2023-05-11T21:33:17.886Z</lastmod>
+    <loc>https://acohenstat.github.io/main/research/2023-prediction-GLMM/index.html</loc>
+    <lastmod>2023-05-15T02:08:39.366Z</lastmod>
   </url>
   <url>
-    <loc>https://samanthacsik.github.io/posts/2022-06-22-hello_quarto/index.html</loc>
-    <lastmod>2023-05-11T21:33:18.431Z</lastmod>
+    <loc>https://acohenstat.github.io/main/research/2022-spm-wavelet/index.html</loc>
+    <lastmod>2023-05-15T02:08:39.729Z</lastmod>
   </url>
   <url>
-    <loc>https://samanthacsik.github.io/posts/2021-09-21-distill-blogs/index.html</loc>
-    <lastmod>2023-05-11T21:33:19.565Z</lastmod>
+    <loc>https://acohenstat.github.io/main/research/2023-LCA/index.html</loc>
+    <lastmod>2023-05-15T02:08:40.100Z</lastmod>
   </url>
   <url>
-    <loc>https://samanthacsik.github.io/talks_workshops/2022-08-05-creating-your-personal-website-using-quarto/index.html</loc>
-    <lastmod>2023-05-11T21:33:20.056Z</lastmod>
+    <loc>https://acohenstat.github.io/main/research/2016-owave/index.html</loc>
+    <lastmod>2023-05-15T02:08:40.488Z</lastmod>
   </url>
   <url>
-    <loc>https://samanthacsik.github.io/talks_workshops/2022-10-24-quarto-blogs/index.html</loc>
-    <lastmod>2023-05-11T21:33:20.718Z</lastmod>
+    <loc>https://acohenstat.github.io/main/research/2028-classification-SVM/index.html</loc>
+    <lastmod>2023-05-15T02:08:40.805Z</lastmod>
   </url>
   <url>
-    <loc>https://samanthacsik.github.io/talks_workshops/2021-11-15-ide-tips-tricks/index.html</loc>
-    <lastmod>2023-05-11T21:33:21.388Z</lastmod>
+    <loc>https://acohenstat.github.io/main/research/2021-BN-spm/index.html</loc>
+    <lastmod>2023-05-15T02:08:41.189Z</lastmod>
   </url>
   <url>
-    <loc>https://samanthacsik.github.io/talks_workshops/2022-10-10-customizing-quarto-websites/index.html</loc>
-    <lastmod>2023-05-11T21:33:21.700Z</lastmod>
+    <loc>https://acohenstat.github.io/main/research.html</loc>
+    <lastmod>2023-05-15T02:08:41.665Z</lastmod>
   </url>
   <url>
-    <loc>https://samanthacsik.github.io/talks_workshops/2023-04-14-functions-forloops/index.html</loc>
-    <lastmod>2023-05-11T21:33:22.368Z</lastmod>
+    <loc>https://acohenstat.github.io/main/posts/chisquare_test/index.html</loc>
+    <lastmod>2023-05-15T02:08:42.110Z</lastmod>
   </url>
   <url>
-    <loc>https://samanthacsik.github.io/talks_workshops/2023-01-20-eds430-intro-to-shiny/index.html</loc>
-    <lastmod>2023-05-11T21:33:23.036Z</lastmod>
+    <loc>https://acohenstat.github.io/main/index.html</loc>
+    <lastmod>2023-05-15T02:08:43.148Z</lastmod>
   </url>
   <url>
-    <loc>https://samanthacsik.github.io/talks_workshops/2021-10-11-teach-me-how-to-google/index.html</loc>
-    <lastmod>2023-05-11T21:33:23.366Z</lastmod>
+    <loc>https://acohenstat.github.io/main/about.html</loc>
+    <lastmod>2023-05-15T02:08:44.224Z</lastmod>
   </url>
   <url>
-    <loc>https://samanthacsik.github.io/talks_workshops/2019-05-15-intro-to-the-tidyverse/index.html</loc>
-    <lastmod>2023-05-11T21:33:23.697Z</lastmod>
+    <loc>https://acohenstat.github.io/main/posts.html</loc>
+    <lastmod>2023-05-15T02:08:44.509Z</lastmod>
   </url>
   <url>
-    <loc>https://samanthacsik.github.io/talks_workshops/2022-04-18-intro-to-cloud-computing/index.html</loc>
-    <lastmod>2023-05-11T21:33:24.031Z</lastmod>
-  </url>
-  <url>
-    <loc>https://samanthacsik.github.io/talks_workshops/2023-03-16-ggplot2/index.html</loc>
-    <lastmod>2023-05-11T21:33:24.381Z</lastmod>
-  </url>
-  <url>
-    <loc>https://samanthacsik.github.io/talks_workshops.html</loc>
-    <lastmod>2023-05-11T21:33:25.772Z</lastmod>
-  </url>
-  <url>
-    <loc>https://samanthacsik.github.io/index.html</loc>
-    <lastmod>2023-05-11T21:33:26.054Z</lastmod>
-  </url>
-  <url>
-    <loc>https://samanthacsik.github.io/about.html</loc>
-    <lastmod>2023-05-11T21:33:27.333Z</lastmod>
-  </url>
-  <url>
-    <loc>https://samanthacsik.github.io/posts.html</loc>
-    <lastmod>2023-05-11T21:33:27.785Z</lastmod>
-  </url>
-  <url>
-    <loc>https://samanthacsik.github.io/resources.html</loc>
-    <lastmod>2023-05-11T21:33:28.141Z</lastmod>
+    <loc>https://acohenstat.github.io/main/resources.html</loc>
+    <lastmod>2023-05-15T02:08:44.829Z</lastmod>
   </url>
 </urlset>

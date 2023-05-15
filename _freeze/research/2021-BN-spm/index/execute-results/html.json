@@ -1,0 +1,16 @@
+{
+  "hash": "a272c881a0050ad4c72f86302f949550",
+  "result": {
+    "markdown": "---\ntitle: \"Bayesian Networks for Process Monitoring\"\ndescription: |\n   A Bayesian classifier combining statistical rules and fault signature matrix.\nauthor:\n  - name: Achraf Cohen\n    url: \n    orcid: 0000-0002-7843-4517\ndate: 2021-01-15\nslug: wavespm\ncategories: [SPM, Bayesian Networks]\nimage: bnspm.png\nbibliography: ref.bib\n---\n\n::: {.cell}\n::: {.cell-output-display}\n![](bnspm.png){width=776}\n:::\n:::\n\n\n\n\n# Overview\n\nBNs can be developed either based on the physical and expert knowledge or using data. Both information can be complementary and could be helpful to accurately infer and determine the associations between the system’s variables [@COHEN2019b,@Atoui_2021,@COHEN2019a].\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
